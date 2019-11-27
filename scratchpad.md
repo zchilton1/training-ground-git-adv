@@ -1,1 +1,1 @@
-This file is used in rebase exercise.
+This file is used in the rebase exercise.
